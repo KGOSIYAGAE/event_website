@@ -1,0 +1,11 @@
+.intro {
+  border: 2px purple solid;
+  /*margin-top: 60px;*/
+  position: relative;
+}
+
+.i-img {
+  width: 100%;
+  margin: 0;
+  filter: grayscale(1);
+}
