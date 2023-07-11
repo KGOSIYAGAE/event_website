@@ -8,7 +8,7 @@ const nav = () => {
       <div className="n-wrapper">
         <ul className="n-items">
           <li className="n-item">HOME</li>
-          <li className="n-item">ABOUT US</li>
+          <li className="n-item">TICKETS</li>
           <li className="n-item">SHOP</li>
           <li className="n-item">
             BOOK STALL <FontAwesomeIcon icon="fa fa-user" />

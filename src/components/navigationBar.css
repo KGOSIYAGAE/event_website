@@ -107,6 +107,8 @@
 .i-date {
   margin-left: 300px;
   display: inline-flex;
+  position: absolute;
+  right: 0;
 }
 
 .i-date p {
