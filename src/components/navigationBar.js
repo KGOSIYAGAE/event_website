@@ -19,7 +19,7 @@ const nav = () => {
         <div className="info-wrapper">
           <div className="i-event">
             <div className="h">H</div>
-            <div className="h1">DJ NATION</div>
+            <div className="h1">DJ ######</div>
             <div className="h2">ANNUAL BASH</div>
             <div className="i-vector"></div>
           </div>
